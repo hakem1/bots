@@ -1,11 +1,11 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
+	$auth_token = 'AUTH_TOKEN';4cdcedeade27df22-67dc226611abfa00-2b0975e4f6a086b3
 	$webhook = 'WEBHOOK_URL';
 	
 	$jsonData = 
-	'{
-		"auth_token": "'.$auth_token.'",
-		"url": "'.$webhook.'",
+	'
+		"auth_token": "'.$auth_token.'",{4cdcedeade27df22-67dc226611abfa00-2b0975e4f6a086b3
+		"url": "'.$webhook.'",serbetli.ua.market
 		"event_types": ["subscribed", "unsubscribed", "delivered", "message", "seen"]
 	}';
 	
